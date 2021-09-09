@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GuessMyNumberApp/app/src/main/res/drawable/background_circle_blue.xml" value="0.2703125" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/GuessMyNumberApp/app/src/main/res/drawable/background_circle_pink.xml" value="0.14537037037037037" />
         <entry key="..\:/Users/HP/AndroidStudioProjects/GuessMyNumberApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
