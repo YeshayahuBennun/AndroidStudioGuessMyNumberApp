@@ -17,9 +17,25 @@
         android:textSize="@dimen/text_size_35"
         app:autoSizeMaxTextSize="@dimen/text_size_35"
         tools:text="what is your number" />
-    
+
     <TextView
+        android:id="@+id/result_text_view"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/colorGreen"
+        android:textSize="@dimen/text_size_35"
+        android:visibility="invisible"
+        tools:text="Your number is 4" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="@dimen/margin_eight"
+        android:background="@color/colorPurple"
+        android:text="@string/str_reset"
+        android:textColor="@color/white"
+        app:backgroundTint="@color/colorPurple" />
 
 </RelativeLayout>
