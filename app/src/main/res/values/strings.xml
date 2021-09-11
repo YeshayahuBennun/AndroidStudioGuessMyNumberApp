@@ -5,4 +5,5 @@
     <string name="str_arrow_up_desc">press arrow up</string>
     <string name="str_success_desc">press app has gessed the number</string>
     <string name="str_question">Is your number %d?</string>
+    <string name="str_success">Your Number Is %d</string>
 </resources>
